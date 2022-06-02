@@ -1,0 +1,24 @@
+{
+  "name": "lighthouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/run.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milky2028/lighthouse.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/milky2028/lighthouse/issues"
+  },
+  "homepage": "https://github.com/milky2028/lighthouse#readme",
+  "dependencies": {
+    "chrome-launcher": "^0.15.1",
+    "lighthouse": "^9.6.1"
+  }
+}
